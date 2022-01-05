@@ -1,25 +1,30 @@
 * {
     box-sizing: border-box;
+    font-size: em;
 }
 
 
 
-.Grid1 {
+.grid5 {
+    font-size: -1em;
     
 }
 
-.Grid2 {
+.grid2 {
   /* padding-right: 5px; */
    /* margin: 5px; */
-border-radius: 10%;
+/* border-radius: 10%; */
     
 }
 
 .grid3{
+    height: 195px;
+
     
     /* margin: 10px;*/
 }
 /* outer row */
 .grid4 {
     margin: 50px;
+    
 }
