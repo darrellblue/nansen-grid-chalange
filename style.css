@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+.Grid1 {
+    
+}
+
+.Grid2 {
+  /* padding-right: 5px; */
+   /* margin: 5px; */
+  
+    
+}
+
+.grid3{
+    
+    /* margin: 10px;*/
+}
+/* outer row */
+.grid4 {
+    margin: 50px;
+}
