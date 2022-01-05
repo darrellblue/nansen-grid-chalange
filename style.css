@@ -1,12 +1,12 @@
 * {
     box-sizing: border-box;
-    font-size: em;
+    font-size: 1em;
 }
 
 
 
-.grid5 {
-    font-size: -1em;
+.Grid5 {
+    font-size: 50%;
     
 }
 
@@ -20,10 +20,23 @@
 .grid3{
     height: 195px;
 
+
     
     /* margin: 10px;*/
 }
-/* outer row */
+
+.box {
+    height: 150px;
+    background-color: dodgerblue;
+}
+
+.Circle {
+    background-color: fuchsia;
+    height: 25px;
+    width: 25px;
+}
+
+
 .grid4 {
     margin: 50px;
     
