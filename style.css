@@ -6,14 +6,14 @@
 
 
 .Grid5 {
-    /* font-size: 50%; */
+    font-size:12px;
+    height: 50px;
     
 }
 
-.grid2 {
-  /* padding-right: 5px; */
-   /* margin: 5px; */
-/* border-radius: 10%; */
+.Grid2 {
+    height: 70px;
+
     
 }
 
@@ -40,4 +40,13 @@
 .grid4 {
     margin: 50px;
     
+}
+
+.grid6 {
+    height: 35px;
+}
+
+.grid7 {
+    height: 110px;
+
 }
