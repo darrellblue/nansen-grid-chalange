@@ -13,6 +13,7 @@
 
 .Grid2 {
     height: 70px;
+    font-size: 17px;
 
     
 }
@@ -49,4 +50,8 @@
 .grid7 {
     height: 110px;
 
+}
+
+.grid8 {
+    height: 40px;
 }
